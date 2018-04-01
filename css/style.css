@@ -1,4 +1,4 @@
-.time-numbers > *, .time-entry > * {
+/*.time-numbers > *, .time-entry > * {
 	display: inline-block;
 }
 
@@ -11,4 +11,16 @@
 		position: relative;
 		top: 60px;
 	}
+}
+*/
+.fa {
+	color: grey;
+}
+
+.container>div>div {
+	margin: 10px;
+	background-color: lightblue;
+	border-radius: 5px;
+	padding: 5px;
+
 }
